@@ -14,4 +14,9 @@
              Reboot, wait 15 seconds after everything is loaded and in terminal
 
              sudo modprobe btusb
-             See if you have better results
+             See if you have better result
+             
+ 3. Run apps on a hardware device Linux
+    Solution: The following example shows how to install the Android adb tools package.
+
+              apt-get install adb
