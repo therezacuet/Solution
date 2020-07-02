@@ -20,3 +20,9 @@
     Solution: The following example shows how to install the Android adb tools package.
 
               apt-get install adb
+            
+# Runtime permissions
+With API level >= 21, you will need to request runtime permissions to access the SD card, the camera, and other things.
+              
+  from android.permissions import request_permissions, Permission
+request_permissions([Permission.WRITE_EXTERNAL_STORAGE])
