@@ -26,3 +26,6 @@ With API level >= 21, you will need to request runtime permissions to access the
               
   from android.permissions import request_permissions, Permission
 request_permissions([Permission.WRITE_EXTERNAL_STORAGE])
+
+
+https://medium.com/frontend-coach/angular-in-motion-4-approaches-to-animation-1aa7426aae5a
