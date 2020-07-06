@@ -29,3 +29,7 @@ request_permissions([Permission.WRITE_EXTERNAL_STORAGE])
 
 
 https://medium.com/frontend-coach/angular-in-motion-4-approaches-to-animation-1aa7426aae5a
+
+
+
+
