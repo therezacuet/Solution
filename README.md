@@ -30,6 +30,8 @@ request_permissions([Permission.WRITE_EXTERNAL_STORAGE])
 
 https://medium.com/frontend-coach/angular-in-motion-4-approaches-to-animation-1aa7426aae5a
 
+http://myhexaville.com/2018/04/30/flutter-canvas-animations/
+
 
 
 
