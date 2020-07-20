@@ -42,17 +42,3 @@ pactl set-sink-volume 0 180%
 https://blog.logrocket.com/flutter-web-app-node-js/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
