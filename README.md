@@ -32,6 +32,7 @@ https://medium.com/frontend-coach/angular-in-motion-4-approaches-to-animation-1a
 
 http://myhexaville.com/2018/04/30/flutter-canvas-animations/
 
+Flutter web apps deploy to c-panel using node js
 https://blog.logrocket.com/flutter-web-app-node-js/
 
 https://connectwww.com/how-to-install-and-configure-apachephpmysql-and-phpmyadmin-on-ubuntu/727/
