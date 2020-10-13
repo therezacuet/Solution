@@ -1,6 +1,7 @@
 [{
 		"id": 6779,
 		"date": "2020-08-30T09:25:06",
+		"link": "https://getmovil.com/playstore/descargar-google-play/",
 		"guid": {
 			"rendered": "http://getmovil.com/?p=6779"
 		},
@@ -26,6 +27,7 @@
 	{
 		"id": 257435,
 		"date": "2020-05-31T12:00:58",
+		"link": "https://getmovil.com/tutoriales/whatsapp/",
 		"title": {
 			"rendered": "Whatsapp APK: Trucos, Mods, Emojis, Temas y Mucho Mas! (Junio 2020)"
 		},
@@ -48,6 +50,7 @@
 	{
 		"id": 177174,
 		"date": "2020-10-02T18:55:45",
+		"link": "https://getmovil.com/playstore/lista-apps-gratis/",
 		"title": {
 			"rendered": "Play Store APK: Ofertas de Apps Gratis (Lista Diaria Octubre 2020)"
 		},
@@ -63,13 +66,14 @@
 		"_embedded": {
 			"wp:featuredmedia": [{
 				"id": 181283,
-				"source_url":  "https://getmovil.com/wp-content/uploads/2018/11/play-store-apps-gratis.jpg"
+				"source_url": "https://getmovil.com/wp-content/uploads/2018/11/play-store-apps-gratis.jpg"
 			}]
 		}
 	},
 	{
 		"id": 25629,
 		"date": "2020-05-14T13:00:12",
+		"link": "https://getmovil.com/tutoriales/emuladores-android/",
 		"title": {
 			"rendered": "Todos los Emuladores para tu Android 2020 (NES, SNES, N64, PS1, PS2, SEGA GENESIS)"
 		},
@@ -92,6 +96,7 @@
 	{
 		"id": 182963,
 		"date": "2020-05-14T15:08:21",
+		"link": "https://getmovil.com/tutoriales/root-android/",
 		"title": {
 			"rendered": "Root Android: Como Rootear tu Android Original o Chino"
 		},
@@ -114,6 +119,7 @@
 	{
 		"id": 29006,
 		"date": "2016-09-19T10:16:57",
+		"link": "https://getmovil.com/tutoriales/instalar-cwm-twrp-recovery/",
 		"title": {
 			"rendered": "Como instalar CWM o TWRP Recovery en Cualquier Android para tener Root"
 		},
@@ -136,6 +142,7 @@
 	{
 		"id": 259097,
 		"date": "2020-08-17T00:00:25",
+		"link": "https://getmovil.com/playstore/juegos-moba-android/",
 		"title": {
 			"rendered": "Juegos MOBA para Android: Disponibles en Play Store"
 		},
