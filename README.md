@@ -52,3 +52,5 @@ https://github.com/MahajanTarun/Pose-Estimation-Android-app-using-Deep-Learning
 https://github.com/beraldofilippo/android-hpe-library
 
 https://github.com/beraldofilippo/android-hpe
+
+https://github.com/sawankumarbundelkhandi/edge_detection
