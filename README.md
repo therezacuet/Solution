@@ -54,3 +54,7 @@ https://github.com/beraldofilippo/android-hpe-library
 https://github.com/beraldofilippo/android-hpe
 
 https://github.com/sawankumarbundelkhandi/edge_detection
+
+
+Push Notifications after App is killed
+Ans: 
