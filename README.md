@@ -55,7 +55,6 @@ https://github.com/beraldofilippo/android-hpe
 https://github.com/sawankumarbundelkhandi/edge_detection
 
 
-
 Push Notifications after App is killed
 Ans: The problem is with the debugging mode in Android Studio. To correctly test your notifications do the following: Run your app via debug in Android Studio. Swipe it away to be killed. Restart the app via the launcher icon on your phone. Swipe it away again (so it gets killed).
 Send your notification and now you will see it!
