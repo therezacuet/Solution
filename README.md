@@ -61,3 +61,6 @@ Send your notification and now you will see it!
 Hope this solved your problem.
 
 https://github.com/psdcompany/duo-navigation-drawer
+
+
+npx --ignore-existing react-native init MyApp --template react-native-template-typescript
