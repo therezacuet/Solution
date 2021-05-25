@@ -66,3 +66,8 @@ https://github.com/psdcompany/duo-navigation-drawer
 
 
 npx --ignore-existing react-native init MyApp --template react-native-template-typescript
+
+
+Note : if you have M1 Chip Mac run the below command, close terminal and open the terminal again
+
+echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
