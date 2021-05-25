@@ -71,3 +71,6 @@ npx --ignore-existing react-native init MyApp --template react-native-template-t
 Note : if you have M1 Chip Mac run the below command, close terminal and open the terminal again
 
 echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
+
+
+https://stackoverflow.com/questions/65458086/failed-to-build-ios-project-we-ran-xcodebuild-command-but-it-exited-with-erro
