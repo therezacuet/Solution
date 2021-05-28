@@ -74,3 +74,8 @@ echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
 
 
 https://stackoverflow.com/questions/65458086/failed-to-build-ios-project-we-ran-xcodebuild-command-but-it-exited-with-erro
+
+
+
+
+
