@@ -16,6 +16,8 @@
              sudo modprobe btusb
              See if you have better result
              
+             
+             
  3. Run apps on a hardware device Linux
     Solution: The following example shows how to install the Android adb tools package.
 
