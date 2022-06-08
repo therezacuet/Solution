@@ -27,33 +27,6 @@
       ]
     }
   },
-  {
-    "id": 262690,
-    "date": "2021-12-29T11:03:16",
-    "guid": {
-      "rendered": "https://getmovil.com/?p=262690"
-    },
-    "link": "https://getmovil.com/tutoriales/vpn-android-configurarla/",
-    "title": {
-      "rendered": "VPN para Android: Todo lo que puedes hacer y cómo configurarla"
-    },
-    "content": {
-      "rendered": "<p><img class=\"alignnone size-full wp-image-262691 aligncenter\" src=\"https://getmovil.com/wp-content/uploads/2021/12/vpn-android.jpg\" alt=\"vpn-android\" width=\"690\" height=\"380\" srcset=\"https://getmovil.com/wp-content/uploads/2021/12/vpn-android.jpg 690w, https://getmovil.com/wp-content/uploads/2021/12/vpn-android-380x210.jpg 380w\" sizes=\"(max-width: 690px) 100vw, 690px\" /></p>\n<p>Te contamos todo lo que debes saber sobre <strong>VPN para Android</strong>, pues se trata de una explicación relativamente sencilla. El término que corresponde a las siglas de Virtual Private Network, traducido al español, red privada virtual se utilizaron en un principio para conectar sucursales, oficinas o usuarios a una misma red con las mismas políticas de seguridad, privacidad y demás. A continuación te contamos sobre estas tecnologías que están disponibles en la <a href=\"https://getmovil.com/playstore/lista-apps-gratis/\">playstore</a>.</p>\n<h2>VPN para Android todo lo que puedes hacer y cómo configurarla</h2>\n<p>En otras palabras, las VPN son tecnologías que nos permiten extender la red local, sin necesidad de que los integrantes de dicha red estén físicamente conectados entre sí.</p>\n<p>Al conectarte a una VPN, tu dirección IP, a efectos prácticos, es la que proporciona dicho VPN. Esto abre un mundo de posibilidades a la hora de la navegación.</p>\n<p>Cuando te conectas a una VPN, todo el tráfico de red sigue yendo desde nuestro dispositivo al ISP (proveedor de servicios de internet), pero desde allí se dirige de forma directa al servidor VPN. ¿Qué significa esto? Que la dirección IP, a efectos prácticos, será la que te proporcione el servidor VPN, con todo lo que ello implica.</p>\n<h3>Configurar una VPN en Android</h3>\n<p><img class=\"alignnone size-full wp-image-262692 aligncenter\" src=\"https://getmovil.com/wp-content/uploads/2021/12/configurar-vpn.jpg\" alt=\"configurar-vpn\" width=\"690\" height=\"412\" /></p>\n<p>Vamos a explicarte cómo puedes configurar una VPN en Android. Lo primero que tenemos que hacer, es ir al apartado de Redes e Internet, que encontrarás en el primer lugar del menú de tu Android. Si tu móvil tiene una capa de personalización pesada, puede que se encuentre en el apartado de más, más conexiones, etc.</p>\n<p>Independientemente del teléfono, se te pedirán ciertos datos para configurar la VPN. Estos datos te los proporcionará el proveedor del VPN, así que no tienes más que apuntarlos.</p>\n<ul>\n<li>Nombre</li>\n<li>Tipo de VPN</li>\n<li>Dirección del servidor</li>\n<li>Nombre de usuario</li>\n<li>Contraseña</li>\n</ul>\n<p>Una vez hayas añadido el perfil VPN, tendrás que pulsar sobre el mismo cuando quieras conectarte. De lo contrario, el perfil quedará configurado en tus ajustes, pero la conexión seguirá siendo la misma de siempre.</p>\n<p>Por suerte, estamos usando teléfonos móviles, y hablar de estos es hablar de aplicaciones. La inmensa mayoría de VPNs tienen su propia aplicación, por lo que no tienes más que instalar estas apps, y permitir que añadan sus propios perfiles de VPN.</p>\n<p>Estos perfiles aparecerán reflejados en el apartado de VPN, ya configurados, sin que tú tengas que hacer nada.</p>\n<p>En nuestra experiencia, hay varias VPN recomendables, como NordVPN, Express VPN, IPVanish o la VPN de Cloudflare. Ya queda a gusto del usuario escoger entre unas y otras, así como el ver qué pueden aportar a tu conexión.</p>\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "<p>Te contamos todo lo que debes saber sobre VPN para Android, pues se trata de una explicación relativamente sencilla. El término que corresponde a las siglas […]</p>\n"
-    },
-    "_embedded": {
-      "wp:featuredmedia": [
-        {
-          "id": 262691,
-          "source_url": "https://getmovil.com/wp-content/uploads/2021/12/vpn-android.jpg"
-        }
-      ]
-    }
-  },
-	
 	{
 		"id": 177174,
 		"date": "2020-10-02T18:55:45",
